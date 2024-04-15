@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-link {
+    color: #808081;
+    font-size: larger;
+}
+
+p {
+    color: #808081;
+}
+
+.fs {
+    font-size: 34px;
+}
+
+.navbar {
+    background-color: #F0ECF9;
+}
+
+.bg {
+    background-color: #F0ECF9;
+    border-radius: 0px 0px 200px 0px;
+     z-index: 45;
+     min-height: 500px;
+}
+.r{z-index: -45;}
+
+.purp {
+    color: #6F42C1;
+    ;
+}
+
+.fss {
+    font-size: 68px;
+}
+
+.frst {
+    color: #6F42C199;
+}
+.bgg{background-color:#F0ECF9 ;}
+.purp-btn {
+    background-color: #6F42C1;
+    border-radius: 40px;
+    color: white;
+}
+.fsss{font-size: 40px;}
+.fssss{font-size: 38px; font-weight: 800;}
