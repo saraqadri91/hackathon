@@ -22,7 +22,7 @@ p {
 
 .bg {
     background-color: #F0ECF9;
-    border-radius: 0px 0px 200px 0px;
+    border-radius: 0px 0px 150px 0px;
      z-index: 45;
      min-height: 500px;
 }
@@ -48,3 +48,6 @@ p {
 }
 .fsss{font-size: 40px;}
 .fssss{font-size: 38px; font-weight: 800;}
+@media screen and (max-width:767px) {.gg{gap: 0px !important;}
+    
+}
